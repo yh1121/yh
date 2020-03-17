@@ -1,0 +1,10 @@
+D:\vs2010\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\vs2010\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\vs2010\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+D:\vs2010\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb
+D:\vs2010\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+D:\vs2010项目存放位置\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+D:\vs2010项目存放位置\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb
+D:\vs2010项目存放位置\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\vs2010项目存放位置\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\vs2010项目存放位置\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
